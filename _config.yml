@@ -19,44 +19,44 @@ content:
       - layout: top-middle
         title: Computer Enthusiast
         description: |
-        << Main Rig >>
-        CPU -> Ryzen 7 5700X @ 4.8Ghz All-Core
-        GPU -> Vega 64 @ 1.7Ghz Core 1.0Ghz HBM2
-        GPU -> RX 7600 @ Stock Clocks (for RDNA2 testing)
-        RAM -> G.Skill Flare X 3200Mhz CL14 B-Die @ 3600Mhz CL 14-15-15-38
-        PSU -> EVGA P2 1000W (moar power baby)
-        Case -> Fractal Design R6 TG
-        OS -> Linux Mint (Windows dual-boot)
-
-        << Virtual Reality >>
-        HMD -> Valve Index
-        Controllers -> Valve Knuckles
-        Trackers -> 1x HTC Tracker 2.0 + 2x HTC Vive Wands (flashed firmware)
-
-        << Server Rack >>
-        Rack -> APC AR3104 24u
-        Modem -> Calix GigaSpire U6 (250Mbps Fiber)
-        Switch -> Cisco Catalyst 3750G 48PS
-
-        << Server >>
-        CPU -> x2 Xeon E5-2630 v4
-        RAM -> 64GB DDR4-2133 ECC
-        HDD -> 2x 300GB 12k SAS (RAID 1)
-        HDD -> 12x 1.2TB 10k SAS (RAID 5)
-        Net -> 10Gbps SFP+
-        OS -> Ubuntu Server LTS
+          << Main Rig >>
+          CPU -> Ryzen 7 5700X @ 4.8Ghz All-Core
+          GPU -> Vega 64 @ 1.7Ghz Core 1.0Ghz HBM2
+          GPU -> RX 7600 @ Stock Clocks (for RDNA2 testing)
+          RAM -> G.Skill Flare X 3200Mhz CL14 B-Die @ 3600Mhz CL 14-15-15-38
+          PSU -> EVGA P2 1000W (moar power baby)
+          Case -> Fractal Design R6 TG
+          OS -> Linux Mint (Windows dual-boot)
+  
+          << Virtual Reality >>
+          HMD -> Valve Index
+          Controllers -> Valve Knuckles
+          Trackers -> 1x HTC Tracker 2.0 + 2x HTC Vive Wands (flashed firmware)
+  
+          << Server Rack >>
+          Rack -> APC AR3104 24u
+          Modem -> Calix GigaSpire U6 (250Mbps Fiber)
+          Switch -> Cisco Catalyst 3750G 48PS
+  
+          << Server >>
+          CPU -> x2 Xeon E5-2630 v4
+          RAM -> 64GB DDR4-2133 ECC
+          HDD -> 2x 300GB 12k SAS (RAID 1)
+          HDD -> 12x 1.2TB 10k SAS (RAID 5)
+          Net -> 10Gbps SFP+
+          OS -> Ubuntu Server LTS
       - layout: top-middle
         title: Cars
         description: |
-        1995 Olds 88 Royale LS
-        Cold Air -> ZZP 4 inch Fenderwell Intake
-        Engine -> L36 3800 Series II (NA for now o.o)
+          1995 Olds 88 Royale LS
+          Cold Air -> ZZP 4 inch Fenderwell Intake
+          Engine -> L36 3800 Series II (NA for now o.o)
       - layout: top-middle
         title: Audio
         description: |
-        Subs -> 2x 12 inch Rockford Fosgate P2
-        Box -> Ported (need to measure >.<)
-        Amp -> Rockford Fosgate Punch 500 (P500X1bd)
+          Subs -> 2x 12 inch Rockford Fosgate P2
+          Box -> Ported (need to measure >.<)
+          Amp -> Rockford Fosgate Punch 500 (P500X1bd)
 
 # Build settings
 remote_theme: sproogen/resume-theme
