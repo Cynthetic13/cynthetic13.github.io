@@ -20,8 +20,11 @@ content:
         title: Computer Enthusiast
         description: |
           << Main Rig >>
+          
           CPU -> Ryzen 7 5700X @ 4.8Ghz All-Core
+          
           GPU -> Vega 64 @ 1.7Ghz Core 1.0Ghz HBM2
+          
           GPU -> RX 7600 @ Stock Clocks (for RDNA2 testing)
           RAM -> G.Skill Flare X 3200Mhz CL14 B-Die @ 3600Mhz CL 14-15-15-38
           PSU -> EVGA P2 1000W (moar power baby)
