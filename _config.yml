@@ -25,7 +25,7 @@ content:
           
           GPU -> Vega 64 @ 1.7Ghz Core 1.0Ghz HBM2
           
-          GPU -> RX 7600 @ Stock Clocks (for RDNA2 testing)
+          GPU -> RX 7600 @ Stock Clocks (for RDNA3 testing)
           
           RAM -> G.Skill Flare X 3200Mhz CL14 B-Die @ 3600Mhz CL 14-15-15-38
           
@@ -33,7 +33,7 @@ content:
           
           Case -> Fractal Design R6 TG
           
-          OS -> Linux Mint (Windows dual-boot)
+          OS -> Void Linux (Windows 10 Dual-Boot)
 
           
           << Virtual Reality >>
@@ -66,16 +66,18 @@ content:
           
           Net -> 10Gbps SFP+
           
-          OS -> Ubuntu Server LTS
+          OS -> Proxmox
           
       - layout: top-middle
         title: Cars
         description: |
-          1995 Olds 88 Royale LS
+          1995 Olds 88 Royale LS (47k miles as of June 2025)
           
           Cold Air -> ZZP 4 inch Fenderwell Intake
           
           Engine -> L36 3800 Series II (NA for now o.o)
+
+          Looking for: Chevy Cobalt w/ Manual Transmission
           
       - layout: top-middle
         title: Audio
