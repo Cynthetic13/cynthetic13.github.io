@@ -1,0 +1,21 @@
+# Site Settings
+title: Kristen's Cybersecurity Portfolio
+description: "Cybersecurity portfolio highlighting my projects in system hardening, monitoring, and incident analysis/reporting"
+baseurl: ""
+url: "https://cynthetic13.github.io/kristen-security-portfolio/"
+
+# Theme
+theme: tactile
+
+# Tabs
+navigation:
+  - text: Home
+    url: /
+  - text: Certifications
+    url: /certs/
+  - text: Homelab
+    url: /homelab/
+  - text: Security Logs
+    url: /logs/
+  - text: Projects
+    url: /projects/
