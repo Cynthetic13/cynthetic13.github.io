@@ -1,0 +1,12 @@
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Editor junk
+.vscode/
+.idea/
+
+# Jekyll build cache
+_site/
+.sass-cache/
+.jekyll-cache/
