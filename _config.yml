@@ -20,8 +20,8 @@
 
 title: Kristen's Cybersecurity Portfolio
 description: "Cybersecurity portfolio highlighting my projects in system hardening, monitoring, and incident analysis/reporting"
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://cynthetic13.github.io/kristen-security-portfolio/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: /cynthetic13.github.io/ # the subpath of your site, e.g. /blog
+url: https://cynthetic13.github.io # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  Cynthetic13
 
 # Build settings
