@@ -1,11 +1,13 @@
+# Theme
+remote_theme: pages-themes/tactile@v0.2.0
+plugins:
+  - jekll-remote-theme
+
 # Site Settings
-title: Kristen's Cybersecurity Portfolio
+title: "Kristen's Cybersecurity Portfolio"
 description: "Cybersecurity portfolio highlighting my projects in system hardening, monitoring, and incident analysis/reporting"
 baseurl: ""
 url: "https://cynthetic13.github.io/kristen-security-portfolio/"
-
-# Theme
-theme: tactile
 
 # Tabs
 navigation:
