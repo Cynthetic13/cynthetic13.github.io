@@ -34,8 +34,6 @@ These are some planned projects that I will be running on my homelab:
 - **Penetration Testing:** Kali Linux VM for penetration testing simulations.
 - **Automation Scripts:** Python scripts for logging and parsing data, creating alerts, and various monitoring tasks.
 
----
-
 ## Notes and Best Practices
 
 - I always **isolate attack networks** from my main homelab to prevent accidental contamination
